@@ -11,6 +11,6 @@ int main(void)
 
 	printf("client 5")
 		
-	printf("srv 1")
+	printf("srv 22222")
 	return 0;
 }
