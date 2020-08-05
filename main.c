@@ -15,6 +15,6 @@ int main(void)
 	printf("new----client")
 
 	
-	printf("new-----client-----2")
+	printf("new-----client-----2----srv chg")
 	return 0;
 }
