@@ -13,5 +13,8 @@ int main(void)
 		
 	printf("srv 22222")
 	printf("new----client")
+
+	
+	printf("new-----client-----2")
 	return 0;
 }
