@@ -10,5 +10,7 @@ int main(void)
 	printf("second change.")
 
 	printf("client 1")
+		
+	printf("srv 1")
 	return 0;
 }
