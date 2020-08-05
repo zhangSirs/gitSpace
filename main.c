@@ -6,5 +6,7 @@ int main(void)
 
 
 	printf("first change.");
+
+	printf("second change.")
 	return 0;
 }
